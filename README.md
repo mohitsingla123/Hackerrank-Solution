@@ -9,3 +9,4 @@
 #### [Longest Palindrom Number/String](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/LongestPalinSubstring.java)
 #### [Stdin_Stdout.java](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Stdin_Stdout.java)
 #### [Output_formating.java](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Output_Formatting.java)
+#### [Java_Loop_01]
