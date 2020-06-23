@@ -38,7 +38,7 @@ We use , , and  to produce some series :
 
 We then print each element of our series as a single line of space-separated values
 
-
+![](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20statement%20Image%20file/java_loop_02%20problem.PNG)
 
 __________________________________________________ Solution ______________________________________________________________
 
