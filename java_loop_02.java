@@ -1,5 +1,8 @@
 /*
 ___________________________________________________ Problem Statement _______________________________________________________________
+
+Problem Statement in image format: https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20statement%20Image%20file/java_loop_02%20problem.PNG
+
 We use the integers , , and  to create the following series:
 
 You are given  queries in the form of , , and . For each query, print the series corresponding to the given , , and  values as a single line of  space-separated integers.
@@ -37,8 +40,6 @@ Once we hit , we print the first ten terms as a single line of space-separated i
 We use , , and  to produce some series :
 
 We then print each element of our series as a single line of space-separated values
-
-![](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20statement%20Image%20file/java_loop_02%20problem.PNG)
 
 __________________________________________________ Solution ______________________________________________________________
 
