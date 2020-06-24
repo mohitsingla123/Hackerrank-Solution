@@ -12,3 +12,4 @@
 ##### [Java_Loop_01](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Loop01.java)
 ##### [Java_Loop_02](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/java_loop_02.java)
 ##### [Java_Datatype](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Datatype.java)
+##### [Java End Of File](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/End_of_file.java)
