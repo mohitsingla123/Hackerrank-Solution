@@ -34,8 +34,8 @@ public class Solution {
    in.close();
    
     String s = String.valueOf(n);
-
-    //we cab also use this code also - String s = "" + n;
+    // alternative code: String s = Integer.toString(n);
+    //we can also use this code also: String s = "" + n;
 
    // valueOf is use to converet int into String and parseInt is use for String into int.
    // in Java both int and Integer are used to store integer type data the major difference between both is type of int is primitive while Integer is of class type.
