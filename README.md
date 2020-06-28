@@ -20,6 +20,6 @@
 
 [Java Int to String](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Int_to_String.java)
 
-Java Currency Formatter
+[Java Currency Formatter](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Currency_Formatter.java)
 
 
