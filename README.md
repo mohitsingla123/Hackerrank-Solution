@@ -2,6 +2,8 @@
 
 
 **Java Code for these problems**
+
+
 __________________________________________________________________ Java Introduction ____________________________________________________________________________
 
 
@@ -27,8 +29,9 @@ __________________________________________________________________ Java Introduc
 
 [Java Currency Formatter](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Currency_Formatter.java)
 
-Java Date and Time
+[Java Date and Time](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Date_and_Time.java)
 
+__________________________________________________________________________________________________________________________________________________________________
 
 
 ##### [Longest Palindrom Number/String](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/LongestPalinSubstring.java)
