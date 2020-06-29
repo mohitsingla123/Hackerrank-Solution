@@ -4,7 +4,7 @@
 **Java Code for these problems**
 
 
-__________________________________________________________ Java Introduction _____________________________________________________________________
+________________________________________________________ Java Introduction _____________________________________________________________
 
 
 [Hello World](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Hello_World.java)
@@ -34,4 +34,6 @@ __________________________________________________________ Java Introduction ___
 __________________________________________________________________________________________________________________________________________________________________
 
 
-##### [Longest Palindrom Number/String](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/LongestPalinSubstring.java)
+[Java Substring](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Strings%20and%20Substring/Java_Substring_intro.java)
+
+[Longest Palindrom Number/String](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/LongestPalinSubstring.java)
