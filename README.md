@@ -4,8 +4,7 @@
 **Java Code for these problems**
 
 
-________________________________________________________ Java Introduction _____________________________________________________________
-
+______________________________________ Java Introduction ______________________________
 
 [Hello World](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Hello_World.java)
 
@@ -32,10 +31,13 @@ ________________________________________________________ Java Introduction _____
 [Java Date and Time](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Date_and_Time.java)
 
 __________________________________________________________________________________________________________________________________________________________________
-
+                                            
+                                            **Strings and SubStrings in Java**
 
 [Java String Introduction](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Strings%20and%20Substring/Java_Strings_Introduction.java)
 
 [Java Substring](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Strings%20and%20Substring/Java_Substring_intro.java)
+
+[Java String Reverse](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Strings%20and%20Substring/Java_String_Reverse.java)
 
 [Longest Palindrom Number/String](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/LongestPalinSubstring.java)
