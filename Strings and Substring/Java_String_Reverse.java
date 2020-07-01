@@ -31,7 +31,6 @@ public class Solution {
         Scanner sc=new Scanner(System.in);
         String A=sc.next();
         
-
         StringBuilder B = new StringBuilder(); 
   
         // append a string into StringBuilder B 
@@ -40,7 +39,7 @@ public class Solution {
         // reverse StringBuilder B 
         B = B.reverse(); 
 
-        //converting StringBuilder into String using toString\
+        //converting StringBuilder into String using toString.
         
         if ((A.compareTo(B.toString())==0))
         {
