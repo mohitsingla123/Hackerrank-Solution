@@ -42,6 +42,8 @@ ________________________________________________________________________________
 
 [Longest Palindrom Number/String](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/LongestPalinSubstring.java)
 
+[Java Substring Comparision](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Strings%20and%20Substring/Java_Substring_Comparisons.java)
+
 
 _________________________________________________________________________________________________________________________________________________________________
                                         
