@@ -48,4 +48,4 @@ ________________________________________________________________________________
                                                 **Array In Java**
                                                 
         
- (Java 1-D Array)[]
+ [Java 1-D Array](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/1_D_array.java)
