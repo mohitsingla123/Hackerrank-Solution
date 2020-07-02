@@ -41,3 +41,11 @@ ________________________________________________________________________________
 [Java String Reverse](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Strings%20and%20Substring/Java_String_Reverse.java)
 
 [Longest Palindrom Number/String](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/LongestPalinSubstring.java)
+
+
+_________________________________________________________________________________________________________________________________________________________________
+                                        
+                                                **Array In Java**
+                                                
+        
+ (Java 1-D Array)[]
