@@ -50,6 +50,8 @@ ________________________________________________________________________________
                                                 **Array In Java**
                                                 
         
- [Java 1-D Array](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/1_D_array.java)
+ [Java 1D Array](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/1_D_array.java)
  
  [Java 1D Array (part 02)](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/Java_1D_Array_Part_2.java)
+ 
+ [Java 2D Array](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/Java_2_D_array.java)
