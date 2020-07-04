@@ -55,7 +55,7 @@ The hourglass which has the largest sum is:
 ______________________________________________________________Solution____________________________________________________
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++ 3/8 test case pass ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-*/
+
 
 import java.io.*;
 import java.math.*;
@@ -106,3 +106,53 @@ public class Solution {
         scanner.close();
     }
 }
+*/
+//All test Cases Passed
+
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+
+public class Solution {
+
+
+    private static final Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) {
+        int[][] arr = new int[6][6];
+
+        for (int i = 0; i < 6; i++) {
+            String[] arrRowItems = scanner.nextLine().split(" ");
+            scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+
+            for (int j = 0; j < 6; j++) {
+                int arrItem = Integer.parseInt(arrRowItems[j]);
+                arr[i][j] = arrItem;
+            }
+        }
+
+        int result = arr[0][0]+ arr[1][0]+arr[2][0]+arr[1][1]+ arr[0][2]+ arr[1][2] + arr[2][2];
+       
+        int p;
+        for (int b=0;b<4;b++)
+        {
+            for (int a=0;a<4;a++)
+            {
+              p=  arr[b][a]   + arr[b][a+1]   + arr[b][a+2]
+                            + arr[b+1][a+1] +
+                    arr[b+2][a] + arr[b+2][a+1] + arr[b+2][a+2];
+              
+                if (p>result)
+                result =p;
+                    }
+        }
+
+        System.out.println(result);
+        scanner.close();
+    }
+}
+
