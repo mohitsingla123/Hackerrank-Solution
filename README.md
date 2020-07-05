@@ -30,7 +30,7 @@ ______________________________________ Java Introduction _______________________
 
 [Java Date and Time](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Date_and_Time.java)
 
-[Prime Number Check](https://github.com/mohitsingla123/Hackerrank-Solution/tree/master/Java%20Introduction)
+[Prime Number Check](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/Primality_check.java)
 
 __________________________________________________________________________________________________________________________________________________________________
                                             
