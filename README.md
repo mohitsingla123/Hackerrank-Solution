@@ -6,7 +6,7 @@
 
 ______________________________________ Java Introduction ______________________________
 
-[Hello World](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Hello_World.java)
+[Hello World](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/Hello_World.java)
 
 [if-else_Java](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/ifelse.java)
 
