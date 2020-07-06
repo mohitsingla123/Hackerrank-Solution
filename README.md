@@ -1,11 +1,11 @@
 # Hackerrank-Solution
 
 
-**Java Code for these problems**
+**Java Code for these problems Statement**
 
 
-______________________________________ Java Introduction ______________________________
-
+                                                               **Java Introduction**
+                                                               
 [Hello World](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/Hello_World.java)
 
 [if-else_Java](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/ifelse.java)
@@ -33,8 +33,8 @@ ______________________________________ Java Introduction _______________________
 [Prime Number Check](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/Primality_check.java)
 
 __________________________________________________________________________________________________________________________________________________________________
-                                            
-                                            **Strings and SubStrings in Java**
+                                             
+                                             **Strings and SubStrings in Java**
 
 [Java String Introduction](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Strings%20and%20Substring/Java_Strings_Introduction.java)
 
@@ -60,4 +60,4 @@ ________________________________________________________________________________
  
  [Java ArrayList](https://github.com/mohitsingla123/Hackerrank-Solution/tree/master/Arrays)
  
- [Java Sort]()
+ [Java Sort](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/Java_sort.java)
