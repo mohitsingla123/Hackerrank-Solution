@@ -46,6 +46,8 @@ ________________________________________________________________________________
 
 [Java Substring Comparision](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Strings%20and%20Substring/Java_Substring_Comparisons.java)
 
+[Java Sub-Array](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/SubArray.java)
+
 
 _________________________________________________________________________________________________________________________________________________________________
                                         
@@ -61,3 +63,5 @@ ________________________________________________________________________________
  [Java ArrayList](https://github.com/mohitsingla123/Hackerrank-Solution/tree/master/Arrays)
  
  [Java Sort](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/Java_sort.java)
+ 
+
