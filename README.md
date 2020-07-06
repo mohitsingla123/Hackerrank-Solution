@@ -1,11 +1,15 @@
-# Hackerrank-Solution
+# HackerRank-Solution
+
 
 
 **Java Code for these problems Statement**
 
 
-                                                               **Java Introduction**
-                                                               
+
+​																	**Java Introduction**
+
+
+
 [Hello World](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/Hello_World.java)
 
 [if-else_Java](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/ifelse.java)
@@ -33,8 +37,12 @@
 [Prime Number Check](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/Primality_check.java)
 
 __________________________________________________________________________________________________________________________________________________________________
-                                             
-                                             **Strings and SubStrings in Java**
+
+
+
+​																**Strings and SubStrings**
+
+
 
 [Java String Introduction](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Strings%20and%20Substring/Java_Strings_Introduction.java)
 
@@ -48,20 +56,33 @@ ________________________________________________________________________________
 
 [Java Sub-Array](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/SubArray.java)
 
+_________________________________________________________________________________________________________________________________________________________________
+
+
+
+​																			**Data Structures**
+
+
+ [Java 1D Array](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/1_D_array.java)
+
+ [Java 1D Array (part 02)](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/Java_1D_Array_Part_2.java)
+
+ [Java 2D Array](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/Java_2_D_array.java)
+
+ [Java ArrayList](https://github.com/mohitsingla123/Hackerrank-Solution/tree/master/Arrays)
+
+ [Java Sort](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/Java_sort.java)
+
+
+
+
 
 _________________________________________________________________________________________________________________________________________________________________
-                                        
-                                                        **Data Structures**
-                                                
-        
- [Java 1D Array](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/1_D_array.java)
- 
- [Java 1D Array (part 02)](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/Java_1D_Array_Part_2.java)
- 
- [Java 2D Array](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/Java_2_D_array.java)
- 
- [Java ArrayList](https://github.com/mohitsingla123/Hackerrank-Solution/tree/master/Arrays)
- 
- [Java Sort](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/Java_sort.java)
- 
 
+
+
+​													     		**Object Oriented Programming**
+
+
+
+[Java Inheritance 01](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Object%20Oriented%20Programming/Java_Inheritance_I.java)
