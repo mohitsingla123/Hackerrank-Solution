@@ -12,7 +12,7 @@
 
 [Hello World](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/Hello_World.java)
 
-[if-else_Java](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/ifelse.java)
+[if-else_Java](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/ifelse.java)
 
 [Stdin_Stdout.java](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Stdin_Stdout.java)
 
