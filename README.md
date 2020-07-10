@@ -16,7 +16,7 @@
 
 [Stdin_Stdout.java](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/Stdin_Stdout.java)
 
-[Output_formating.java](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Output_Formatting.java)
+[Output_formating.java](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/Output_Formatting.java)
 
 [Java_Loop_01](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Loop01.java)
 
@@ -24,7 +24,7 @@
 
 [Java_Datatype](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Datatype.java)
 
-[Java End Of File](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/End_of_file.java)
+[Java End Of File](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/End_of_file.java)
 
 [Java Static Initializer Block](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Static_Initializer_Block.java)
 
