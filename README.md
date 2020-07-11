@@ -30,7 +30,7 @@
 
 [Java Int to String](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Int_to_String.java)
 
-[Java Currency Formatter](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Currency_Formatter.java)
+[Java Currency Formatter](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/Java_Currency_Formatter.java)
 
 [Java Date and Time](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Date_and_Time.java)
 
