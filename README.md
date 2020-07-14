@@ -28,7 +28,7 @@
 
 [Java Static Initializer Block](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Static_Initializer_Block.java)
 
-[Java Int to String]https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/Java_Int_to_String.java)
+[Java Int to String](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/Java_Int_to_String.java)
 
 [Java Currency Formatter](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/Java_Currency_Formatter.java)
 
