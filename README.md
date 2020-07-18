@@ -26,7 +26,7 @@
 
 [Java End Of File](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/End_of_file.java)
 
-[Java Static Initializer Block](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java_Static_Initializer_Block.java)
+[Java Static Initializer Block](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/Java_Static_Initializer_Block.java)
 
 [Java Int to String](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Java%20Introduction/Java_Int_to_String.java)
 
