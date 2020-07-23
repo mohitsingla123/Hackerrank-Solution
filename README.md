@@ -72,7 +72,8 @@ ________________________________________________________________________________
  [Java ArrayList](https://github.com/mohitsingla123/Hackerrank-Solution/tree/master/Arrays)
 
  [Java Sort](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/Java_sort.java)
- [array-DS]()
+ 
+ [array-DS](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Arrays/array-ds.java)
 
 
 
