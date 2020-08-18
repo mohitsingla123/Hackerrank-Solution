@@ -103,7 +103,7 @@ ________________________________________________________________________________
 ​																			**Problem Statement**
 
 
-[Strong Password]()
+[Strong Password](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Strong_Password.java)
 [Apple and Orange](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Apple_And_Orange.java)
 
 
