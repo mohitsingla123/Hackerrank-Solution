@@ -104,7 +104,7 @@ ________________________________________________________________________________
 
 
 [Strong Password]()
-[Apple and Orange]
+[Apple and Orange](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Apple_And_Orange.java)
 
 
 
