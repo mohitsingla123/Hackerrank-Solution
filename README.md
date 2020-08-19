@@ -109,4 +109,6 @@ ________________________________________________________________________________
 
 [Simple Array Sum](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/SimpleArraySum.java)
 
+[Time Conversion](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/TimeConversion.java)
+
 
