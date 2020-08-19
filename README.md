@@ -107,5 +107,6 @@ ________________________________________________________________________________
 
 [Apple and Orange](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Apple_And_Orange.java)
 
+[Simple Array Sum](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/SimpleArraySum.java)
 
 
