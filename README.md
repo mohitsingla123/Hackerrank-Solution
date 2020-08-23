@@ -117,6 +117,6 @@ ________________________________________________________________________________
 
 [Staircase](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/StairCasa.java)
 
-Birthday Cake Candles
+[Birthday Cake Candles](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Birthday_Cake_Candles.java)
 
 
