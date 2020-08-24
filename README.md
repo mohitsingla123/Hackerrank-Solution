@@ -119,6 +119,6 @@ ________________________________________________________________________________
 
 [Birthday Cake Candles](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Birthday_Cake_Candles.java)
 
-[Cats and a Mouse]()
+[Cats and a Mouse](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Cats_and_a_Mouse.java)
 
 
