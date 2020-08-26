@@ -122,3 +122,5 @@ ________________________________________________________________________________
 [Cats and a Mouse](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Cats_and_a_Mouse.java)
 
 [Picking Number](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/picking_number.java)
+
+[Angry Professor]()
