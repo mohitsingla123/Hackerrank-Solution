@@ -123,4 +123,4 @@ ________________________________________________________________________________
 
 [Picking Number](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/picking_number.java)
 
-[Angry Professor]()
+[Angry Professor](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Angry_Prodessor.java)
