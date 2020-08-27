@@ -126,3 +126,5 @@ ________________________________________________________________________________
 [Angry Professor](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Angry_Prodessor.java)
 
 [Designer PDF Viewer](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Designer_PDF_Viewer.java)
+
+[Save the Prisoner]
