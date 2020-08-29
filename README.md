@@ -128,3 +128,5 @@ ________________________________________________________________________________
 [Designer PDF Viewer](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Designer_PDF_Viewer.java)
 
 [Save the Prisoner!](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Save_the_Prisoner.java)
+
+[Climb the LeaderBoard](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Climbing_the_Leaderboard.java)
