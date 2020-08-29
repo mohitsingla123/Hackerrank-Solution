@@ -130,3 +130,5 @@ ________________________________________________________________________________
 [Save the Prisoner!](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Save_the_Prisoner.java)
 
 [Climb the LeaderBoard](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Climbing_the_Leaderboard.java)
+
+[Extra Long Factorials](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Extra_Long_Factorials.java)
