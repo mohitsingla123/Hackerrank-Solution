@@ -1,3 +1,7 @@
+// Problem Statement link: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+// some test dosn't pass because of time out
+
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -13,34 +17,31 @@ public class Solution {
             int len = alice.length;
             int len2 = scores.length;
             int[] rank = new int[len];
-        //    len2++;
-
 
         for (int i=0;i<len;i++)
         {
             int count =1;
             int k = alice[i];
 
-            for(int j = 0;j<=len2;j++)
+            for(int j = 0;j<len2;j++)
             {
-// 100 100 50 40 40 20 10
-// 5 25 50 120
-// k = 5 ; score = 100
-                if(k<scores[j] && scores[j]!=scores[j+1] && j!= len2-1)
+                if(k< scores[j] && j == len2-1)
+                {
+                   System.out.println("Condition found");
+                    rank[i]=count+1;
+                    break;
+                }
+                System.out.println(scores[j]);
+                if(k<scores[j] && scores[j]!=scores[j+1])
                 {
                     count++;
+                    System.out.println(count);
                 }
-                else if(k>scores[j] )
+                else if(k>=scores[j] )
                 {
                     rank[i]=count;
                     break;
                 }
-                else if(k< scores[j] && (j == len-1))
-                {
-                    rank[i]=count;
-                    break;
-                }
-                
             }
 
         }
