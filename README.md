@@ -135,6 +135,6 @@ ________________________________________________________________________________
 
 [Repeated String](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Repeated_String.java)
 
-Append and Delete
+[Append and Delete](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Append_and_Delete.java)
 
 
