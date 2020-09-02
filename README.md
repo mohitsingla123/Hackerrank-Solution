@@ -137,5 +137,5 @@ ________________________________________________________________________________
 
 [Append and Delete](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Append_and_Delete.java)
 
-
-[Almost Sorted]
+[Almost Sorted](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/Almost_Sorted.java)
+16/25 cases passed..!
