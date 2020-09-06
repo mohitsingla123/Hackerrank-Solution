@@ -146,4 +146,4 @@ ________________________________________________________________________________
 ​																			**Dynamic Programing**
 
 
-[The Coin Change Problem](https://github.com/mohitsingla123/Hackerrank-Solution/tree/master/Problem%20Statement)
+[The Coin Change Problem](https://github.com/mohitsingla123/Hackerrank-Solution/blob/master/Problem%20Statement/DP_01_The_Coin_Changing_Problem.java)
